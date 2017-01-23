@@ -1,0 +1,86 @@
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\tools\sdk\include
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\tools\sdk\lwip\include
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\cores\esp8266
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\variants\d1_mini
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ArduinoJson_ID64
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFi\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ESPAsyncTCP_ID305\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\AsyncMqttClient_ID346\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Bounce2_ID1106
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266mDNS
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WebServer\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\Ticker
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\DNSServer\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Homie\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Adafruit Unified Sensor_ID31
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\DHT sensor library_ID19
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Adafruit DHT Unified_ID18
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Adafruit Unified Sensor_ID31
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ArduinoJson_ID64
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ArduinoJson_ID64
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ArduinoJson_ID64@5.7.3
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\AsyncMqttClient_ID346\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFi\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ESPAsyncTCP_ID305\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\AsyncMqttClient_ID346\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Bounce2_ID1106
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Bounce2_ID1106
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\DHT sensor library_ID19
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Adafruit Unified Sensor_ID31
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\DHT sensor library_ID19
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\DallasTemperature_ID54
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ESPAsyncTCP_ID305\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFi\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ESPAsyncTCP_ID305\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Homie\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ArduinoJson_ID64
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFi\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\ESPAsyncTCP_ID305\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\AsyncMqttClient_ID346\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Bounce2_ID1106
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266mDNS
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WebServer\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\Ticker
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\DNSServer\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\Homie\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\OneWire_ID1
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\PubSubClient_ID89\src
+-IC:\Users\shut\Documents\PlatformIO\D1Mini-MQTT-NeoPixelRing\.piolibdeps\homie-esp8266\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ArduinoOTA
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\DNSServer\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\EEPROM
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266AVRISP\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPClient\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266HTTPUpdateServer\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266SSDP
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WebServer\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFi\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266WiFiMesh\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266httpUpdate\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\ESP8266mDNS
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\Ethernet\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\GDBStub\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\Hash\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\SD\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\SPI
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\Servo\src
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\SoftwareSerial
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\TFT_Touch_Shield_V2
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\Ticker
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\Wire
+-IC:\Users\shut\.platformio\packages\framework-arduinoespressif8266\libraries\esp8266\src
+-IC:\Users\shut\.platformio\packages\toolchain-xtensa\xtensa-lx106-elf\include
+-IC:\Users\shut\.platformio\packages\toolchain-xtensa\lib\gcc\xtensa-lx106-elf\4.8.2\include
+-IC:\Users\shut\.platformio\packages\toolchain-xtensa\lib\gcc\xtensa-lx106-elf\4.8.2\include-fixed
+-DARDUINO=20300
+-DLWIP_OPEN_SRC
+-DF_CPU=80000000L
+-D__ets__
+-DICACHE_FLASH
+-DPLATFORMIO=30201
+-DESP8266
+-DARDUINO_ARCH_ESP8266
+-DESP8266_WEMOS_D1MINI
