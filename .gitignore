@@ -1,3 +1,10 @@
+# PlatformIO files and folders
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
